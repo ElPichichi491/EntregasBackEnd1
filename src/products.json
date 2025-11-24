@@ -1,0 +1,20 @@
+[
+  {
+    "id": "d1990a4e-76c5-452d-8d52-0e4af09b3201",
+    "title": "Teclado MARCIANO",
+    "description": "VERDE",
+    "stock": 2,
+    "code": "",
+    "price": 800000,
+    "thumnail": ""
+  },
+  {
+    "id": "d74a1b4f-51ee-4574-883c-f39dfcd1d46e",
+    "title": "mouse pat",
+    "description": "VERDE",
+    "stock": 800,
+    "code": "",
+    "price": 250,
+    "thumnail": ""
+  }
+]
